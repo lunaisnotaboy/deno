@@ -1,0 +1,14 @@
+require:
+  - rubocop-rails
+  - rubocop-rspec
+
+AllCops:
+  NewCops: enable
+  TargetRailsVersion: 6.1
+  TargetRubyVersion: 2.7
+
+Metrics:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
