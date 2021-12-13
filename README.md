@@ -1,4 +1,4 @@
-# Deno
+# Deno [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/lunaisnotaboy/deno)](https://codeclimate.com/github/lunaisnotaboy/deno)
 
 An open-source chat application.
 
